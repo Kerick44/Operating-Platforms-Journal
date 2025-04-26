@@ -1,5 +1,3 @@
-# Op-Plat-Portfolio
-
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 The Gaming Room, the client, requested a web-based expansion of their Android game called "Draw it or Lose it." Their main requirements were to create a multiplayer game that renders drawing clues from a stock image library, supports multiple teams, enforces unique game and player names, uses a singleton pattern to ensure only one game instance exists in memory, and implements strict timing rules for each round of play.
